@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "お勉強しといてよ",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-02-11T00:55:23.811645Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_お勉強しといてよ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_お勉強しといてよ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ZUTOMAYO (ずっと真夜中でいいのに。)",
+      "has_synced": true,
+      "path": "select/03_お勉強しといてよ_ZUTOMAYO_(ずっと真夜中でいいのに。).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/04_お勉強しといてよ_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_お勉強しといてよ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_お勉強しといてよ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "お勉強しといてよ (Lyric Video)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_お勉強しといてよ_(Lyric_Video)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_お勉強しといてよ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ZUTOMAYO",
+      "has_synced": false,
+      "path": "select/09_お勉強しといてよ_ZUTOMAYO.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/10_お勉強しといてよ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "お勉強しといてよ = Study Me",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/11_お勉強しといてよ_=_Study_Me_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "お勉強しといてよ (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/12_お勉強しといてよ_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "お勉強しといてよ (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/13_お勉強しといてよ_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "お勉強しといてよ (得好好学习喔)",
+      "artist": "ずっと真夜中でいいのに。 (永远是深夜有多好｡)",
+      "has_synced": true,
+      "path": "select/14_お勉強しといてよ_(得好好学习喔)_ずっと真夜中でいいのに。_(永远是深夜有多好。).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_お勉強しといてよ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_お勉強しといてよ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_お勉強しといてよ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_お勉強しといてよ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_お勉強しといてよ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "お勉強しといてよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_06_お勉強しといてよ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "お勉強しといてよ - Live",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_07_お勉強しといてよ_-_Live_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
